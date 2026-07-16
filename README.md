@@ -1,3 +1,13 @@
+> **Looking for the official SBA GitHub, HUBZone maps, or API docs?**
+> You likely want the government's official [USSBA repository](https://github.com/USSBA). 
+> 
+> **But before you click away:** If you're a tech founder, developer, or small business trying to figure out how to actually *win* federal contracts (and get the government to buy what you sell), you accidentally landed in the perfect place.
+>
+> 🧭 **Welcome to The Bidding Compass.** 
+> We teach small businesses how to decode the bureaucracy, find the right bids, and win government contracts without losing their minds.
+> 
+> 📌 **Read our latest breakdown:** [The Government Is Already Buying What You Sell](https://medium.com/)
+> 🏢 **Get free GovCon training & resources:** [thebiddingcompass.com](https://www.thebiddingcompass.com)
 # 🧭 The Bidding Compass
 
 Helping small businesses win government contracts through practical education, free resources, and step-by-step guides.
